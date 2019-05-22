@@ -1,24 +1,24 @@
-©¦  twocode.md
-©¦  
-©¸©¤wxapp-qrcode
-    ©¦  app.js
-    ©¦  app.json
-    ©¦  app.wxss
-    ©¦  
-    ©À©¤pages
-    ©¦  ©À©¤logs
-    ©¦  ©¦      logs.js
-    ©¦  ©¦      logs.json
-    ©¦  ©¦      logs.wxml
-    ©¦  ©¦      logs.wxss
-    ©¦  ©¦      
-    ©¦  ©¸©¤main
-    ©¦          index.js
-    ©¦          index.json
-    ©¦          index.wxml
-    ©¦          index.wxss
-    ©¦          
-    ©¸©¤utils
+â”‚  twocode.md
+â”‚  
+â””â”€wxapp-qrcode
+    â”‚  app.js
+    â”‚  app.json
+    â”‚  app.wxss
+    â”‚  
+    â”œâ”€pages
+    â”‚  â”œâ”€logs
+    â”‚  â”‚      logs.js
+    â”‚  â”‚      logs.json
+    â”‚  â”‚      logs.wxml
+    â”‚  â”‚      logs.wxss
+    â”‚  â”‚      
+    â”‚  â””â”€main
+    â”‚          index.js
+    â”‚          index.json
+    â”‚          index.wxml
+    â”‚          index.wxss
+    â”‚          
+    â””â”€utils
             qrcode.js
             util.js
             
