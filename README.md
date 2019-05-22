@@ -19,6 +19,13 @@
             │          
             └─utils                                ---------公共的js存储区  
             │          qrcode.js                   ---------用于生成二维码的js算法
-            │          util.js                     ---------公共的js文件
+            │          util.js                     ---------公共的js文件  
               
-            
+              
+              
+   预览图1  
+   -------  
+  ![](https://raw.githubusercontent.com/MyGitHub-self/Mydemo/master/code/two1.png)  
+   预览图2  
+   ------  
+  ![](https://raw.githubusercontent.com/MyGitHub-self/Mydemo/master/code/two2.png)  
